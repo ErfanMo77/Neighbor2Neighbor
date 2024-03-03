@@ -1,1 +1,7 @@
 .vs
+/ILSVRC2012_img_val
+/Imagenet_val
+.vscode
+/results
+/results2
+/__pycache__
